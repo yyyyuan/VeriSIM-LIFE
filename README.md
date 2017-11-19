@@ -1,2 +1,2 @@
 # This is the respository for VeriSIM-LIFE.
-# Life is like a boat.
+Life is like a boat.
